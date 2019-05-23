@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to MyBlog
 
 You can use the [editor on GitHub](https://github.com/jwxhhxx/My-Blog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
